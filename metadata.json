@@ -1,0 +1,6 @@
+{
+  "name": "Shami Mobile Okara - Cell Phone Store",
+  "description": "Official website for Shami Mobile at Venus Chowk, Okara, Pakistan. Cell phone store offering in-store shopping, in-store pickup, delivery, and smartphone inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
